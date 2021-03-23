@@ -1,4 +1,3 @@
-from car import *
 """
 根据car类创建
 """
